@@ -1,2 +1,2 @@
-# grafonomia
-repositorio del proyecto de grafonomia
+# miproyecto
+repositorio de investigacion
