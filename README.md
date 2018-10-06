@@ -1,2 +1,2 @@
-# produccion
-repositorio de produccion
+# grafonomia
+repositorio del proyecto de grafonomia
